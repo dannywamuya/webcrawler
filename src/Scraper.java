@@ -1,5 +1,5 @@
 /*
-* Simple web crawler based on jsoup that grabs urls from DOM content and saves to a file
+* Simple web scraper based on jsoup that grabs urls from DOM content and saves to a file
 *
 * author -      Danny Wamuya
 * date   -      27.07.2021
@@ -15,7 +15,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-public class Crawler {
+public class Scraper {
     public static void main(String[] args) {
         String url = "https://github.com/";
         try {
