@@ -1,5 +1,5 @@
-# *webcrawler*
-Simple web crawler based on jsoup that grabs urls from DOM content and saves to a file
+# *webscraper*
+Simple web scraper based on jsoup that grabs urls from DOM content and saves to a file
 
 ```
 author -      Danny Wamuya  
